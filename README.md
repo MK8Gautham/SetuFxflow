@@ -1,4 +1,5 @@
 Setu FX – WhatsApp-style Remittance Demo:
+Link: https://setu-fx-remittance-d-xhuf.bolt.host/
 
 A mobile-first, WhatsApp-looking chat that demos Money Transfer (FX) with Setu as the AI interface and eBIX as Merchant-of-Record. It simulates quote/validation, KYC uploads, Pinelabs checkout, and remittance UTR packaged for quick sales demos and product walkthroughs.
 
